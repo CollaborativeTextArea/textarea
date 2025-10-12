@@ -10,3 +10,5 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 > Yo, if you're having difficulty coding, just turn on night mode in your browser!!
 >
 > Or, if anything else, well, idk, do an issue I guess?
+
+*`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for coding in light mode anyways lol)`*
