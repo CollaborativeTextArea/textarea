@@ -15,3 +15,5 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 
 # Preview of the Textarea in night mode
 ![preview](https://i.ibb.co/s9PWwQyF/Screenshot-20251012-223249-Kiwi-Browser.jpg)
+# Preview of the Textarea in light mode 💀😭🥀
+![preview](https://i.ibb.co/Lh631cXt/Screenshot-20251012-224259-Kiwi-Browser.jpg)
