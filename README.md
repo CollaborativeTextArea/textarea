@@ -7,7 +7,7 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 
 > Ok, enough writing, you get the point now.
 >
-> Yo, if you're having difficulty coding, just turn on night mode in your browser!!
+> Yo, just fixed the light and dark mode issue!!
 >
 > Or, if anything else, well, idk, do an issue I guess?
 
@@ -15,5 +15,3 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 
 # Preview of the Textarea in night mode
 ![preview](https://i.ibb.co/s9PWwQyF/Screenshot-20251012-223249-Kiwi-Browser.jpg)
-# Preview of the Textarea in light mode 💀😭🥀
-![preview](https://i.ibb.co/Lh631cXt/Screenshot-20251012-224259-Kiwi-Browser.jpg)
