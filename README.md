@@ -14,4 +14,4 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 *`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for unsupported device ratio lol)`*
 
 # Preview of the Textarea in night mode
-![preview](https://i.ibb.co/s9PWwQyF/Screenshot-20251012-223249-Kiwi-Browser.jpg)
+![preview](https://i.postimg.cc/mZvLqngT/Screenshot-20251013-191221-Chrome.jpg)
