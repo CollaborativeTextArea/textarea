@@ -12,6 +12,8 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 > Or, if anything else, well, idk, do an issue I guess?
 
 *`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for unsupported device ratio lol)`*
+# ⚠️ WARNING ⚠️ 
+## THIS IS AN PEER2PEER SERVICE, YOUR IP CAN GET LEAKED IF YOU DONT USE VPN!
 
 # Preview of the Textarea in night mode
 ![preview](https://i.postimg.cc/ZYr2bsxG/Screenshot-20251013-191809-Chrome.jpg)
