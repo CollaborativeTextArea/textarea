@@ -11,7 +11,7 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 >
 > Or, if anything else, well, idk, do an issue I guess?
 
-*`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for coding in light mode anyways lol)`*
+*`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for unsupported device ratio lol)`*
 
 # Preview of the Textarea in night mode
 ![preview](https://i.ibb.co/s9PWwQyF/Screenshot-20251012-223249-Kiwi-Browser.jpg)
