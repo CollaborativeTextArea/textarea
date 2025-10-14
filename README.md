@@ -13,7 +13,7 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 
 *`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for unsupported device ratio lol)`*
 # ⚠️ WARNING ⚠️ 
-## THIS IS AN PEER2PEER SERVICE, YOUR IP CAN GET LEAKED IF YOU DONT USE VPN!
+## TEMPTEXTAREA IS AN PEER2PEER SERVICE, YOUR IP CAN GET LEAKED IF YOU DONT USE VPN!
 https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
 # Preview of the Textarea in night mode
 ![PreviewOftextarea](https://i.postimg.cc/hvZ4SSqh/screenshot-2k-1-1-png.jpg)
