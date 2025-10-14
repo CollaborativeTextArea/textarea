@@ -16,5 +16,5 @@ Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(
 ## THIS IS AN PEER2PEER SERVICE, YOUR IP CAN GET LEAKED IF YOU DONT USE VPN!
 https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
 # Preview of the Textarea in night mode
-![preview by chatgpt example code for the SyntaxHighlight preview to show its beauty but it cant cuz it didnt load](https://i.ibb.co/svZtgTmx/screenshot-2k-1-png.jpg)
+![preview by chatgpt example code for the SyntaxHighlight preview to show its beauty but it cant cuz it didnt load](https://i.postimg.cc/6BSkDdpZ/screenshot-2k-1-png.jpg)
 *`(chatgpt made code cuz too lazy lol)`*
