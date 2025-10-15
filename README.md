@@ -24,3 +24,5 @@ https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
 ![PreviewOftextarea](https://i.postimg.cc/hvZ4SSqh/screenshot-2k-1-1-png.jpg)
 ## thumbnail version
 ![PreviewEdited](https://i.ibb.co/zhbHf9P1/Picsart-25-10-15-11-53-33-396.jpg)
+
+<a href="https://github.com/CollaborativeTextArea/textarea/blob/main/Preview.md">more preview</a>
