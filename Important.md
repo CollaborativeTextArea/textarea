@@ -7,6 +7,8 @@ however on the main topic
 - IP address *`(trigger word)`*
 - ISP info that is publicly available when you search
 - and your public ip and could get ddosed or hacked in worse case scenario if you have vuln ports
+
+- and much more
 ## What can be done to prevent this
 - use a proxy server or VPN
 
