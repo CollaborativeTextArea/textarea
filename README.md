@@ -19,3 +19,4 @@ yes i made https://textarea.js.org non Collaborative due to privacy risks check 
 https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
 # Preview of the Textarea in night mode
 ![PreviewOftextarea](https://i.postimg.cc/hvZ4SSqh/screenshot-2k-1-1-png.jpg)
+![PreviewEdited](https://i.ibb.co/zhbHf9P1/Picsart-25-10-15-11-53-33-396.jpg)
