@@ -3,6 +3,9 @@
 
 Collaborative Textarea is an website that runs 24/7, `(no backend 😂)`  
 this tool can allow you to write essays or code with your friends, or anybody globally over the internet using the peer ID that you can share.  
+
+mostly going to be used as preview or showcase anyways or left dead
+
 Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(if it's not near 0%, that's ChatGPT's calculation fault 👍)`
 
 yes i made https://textarea.js.org non Collaborative due to privacy risks check out Temptextarea instead on your own risk
