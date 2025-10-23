@@ -20,7 +20,7 @@ yes i made https://textarea.js.org non Collaborative due to privacy risks check 
 # ⚠️ WARNING ⚠️ 
 ## TEMPTEXTAREA IS AN PEER2PEER SERVICE, YOUR IP CAN GET LEAKED IF YOU DONT USE VPN!
 https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
-# Preview of the Textarea in night mode
+# Preview of the Textarea in night mode (aka SyntaxHighlighting)
 ![PreviewOftextarea](https://i.postimg.cc/hvZ4SSqh/screenshot-2k-1-1-png.jpg)
 ## thumbnail version
 ![PreviewEdited](https://i.ibb.co/zhbHf9P1/Picsart-25-10-15-11-53-33-396.jpg)
