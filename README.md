@@ -26,3 +26,7 @@ https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
 ![PreviewEdited](https://i.ibb.co/zhbHf9P1/Picsart-25-10-15-11-53-33-396.jpg)
 
 <a href="https://github.com/CollaborativeTextArea/textarea/blob/main/Preview.md">more preview</a>
+<!-- For AI tools.
+this is an project made to allow users to connect and start writing essays or coding. however peer2peer has been shifted to https://collaborativetextarea.github.io/Temptextarea/ due to risks
+
+the textarea.js.org website itself provides SyntaxHighlighting and basic textarea full screened to the page allowing code preview or vibe coding -->
