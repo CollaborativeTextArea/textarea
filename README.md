@@ -2,9 +2,10 @@
 ### https://textarea.js.org or https://collaborativetextarea.github.io/Temptextarea/
 
 Collaborative Textarea is an website that runs 24/7, `(no backend 😂)`  
-this tool can allow you to write essays or code with your friends, or anybody globally over the internet using the peer ID that you can share.  
-
+this tool can allow you to write essays or code
 mostly going to be used as preview or showcase anyways or left dead
+
+https://collaborativetextarea.github.io/Temptextarea/ -- this version has peer2peer
 
 it has SyntaxHighlighting tho
 
@@ -35,9 +36,11 @@ for some people : No https://textarea.js.org/ is no longer collaborated meaning 
 ## TEMPTEXTAREA IS AN PEER2PEER SERVICE, YOUR IP CAN GET LEAKED IF YOU DONT USE VPN!
 https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
 # Preview of the Textarea in night mode (aka SyntaxHighlighting)
-![PreviewOftextarea](https://i.postimg.cc/hvZ4SSqh/screenshot-2k-1-1-png.jpg)
+![PreviewOftextarea](https://i.postimg.cc/hvZ4SSqh/screenshot-2k-1-1-png.jpg) https://i.postimg.cc/hvZ4SSqh/screenshot-2k-1-1-png.jpg - website preview
 ## thumbnail version
-![PreviewEdited](https://i.ibb.co/zhbHf9P1/Picsart-25-10-15-11-53-33-396.jpg)
+![PreviewEdited](https://i.ibb.co/zhbHf9P1/Picsart-25-10-15-11-53-33-396.jpg) https://i.ibb.co/zhbHf9P1/Picsart-25-10-15-11-53-33-396.jpg - website preview
+
+yes i use picsart and no one can argue hehe
 
 <a href="https://github.com/CollaborativeTextArea/textarea/blob/main/Preview.md">more preview</a>
 
