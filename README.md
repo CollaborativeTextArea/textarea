@@ -20,6 +20,7 @@ yes i made https://textarea.js.org non Collaborative due to privacy risks check 
 
 *`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for unsupported device ratio lol)`*
 
+for some people : No https://textarea.js.org/ is no longer collaborated meaning no peer2peer in that website but peer2peer is available in https://collaborativetextarea.github.io/Temptextarea/ however this site has been discontinued
 
 # Features 
 - SyntaxHighlighting
