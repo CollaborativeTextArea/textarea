@@ -6,6 +6,8 @@ this tool can allow you to write essays or code with your friends, or anybody gl
 
 mostly going to be used as preview or showcase anyways or left dead
 
+it has SyntaxHighlighting tho
+
 Don't worry, it's near 0% that somebody will brute-force and get your peer ID `(if it's not near 0%, that's ChatGPT's calculation fault 👍)`
 
 yes i made https://textarea.js.org non Collaborative due to privacy risks check out Temptextarea instead on your own risk
@@ -17,6 +19,17 @@ yes i made https://textarea.js.org non Collaborative due to privacy risks check 
 > Or, if anything else, well, idk, do an issue I guess?
 
 *`(yes the page looks like bareminimum but when you click the x button in the popup everything just looks right as it should be except for unsupported device ratio lol)`*
+
+
+# Features 
+- SyntaxHighlighting
+  
+- /?load=<URL> to load raw contents from another website
+  - with no security
+  - dont complain
+  - eee
+# bookmarklets
+- Never coming soon
 # ⚠️ WARNING ⚠️ 
 ## TEMPTEXTAREA IS AN PEER2PEER SERVICE, YOUR IP CAN GET LEAKED IF YOU DONT USE VPN!
 https://github.com/CollaborativeTextArea/textarea/blob/main/Important.md
