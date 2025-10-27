@@ -5,7 +5,7 @@ Collaborative Textarea is an website that runs 24/7, `(no backend 😂)`
 this tool can allow you to write essays or code
 mostly going to be used as preview or showcase anyways or left dead
 
-https://collaborativetextarea.github.io/Temptextarea/ -- this version has peer2peer
+https://collaborativetextarea.github.io/Temptextarea/ -- this version is the collaborative one
 
 it has SyntaxHighlighting tho
 
