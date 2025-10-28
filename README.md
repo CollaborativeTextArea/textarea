@@ -26,7 +26,7 @@ for some people : No https://textarea.js.org/ is no longer collaborated meaning 
 # Features 
 - SyntaxHighlighting
   
-- /?load=<URL> to load raw contents from another website
+- `/?load=<URL>` to load raw contents from another website
   - with no security
   - dont complain
   - eee
