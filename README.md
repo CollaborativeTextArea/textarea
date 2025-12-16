@@ -1,7 +1,7 @@
-# Collaborative Textarea
+# Pro gramming Textarea
 ### https://textarea.js.org or https://collaborativetextarea.github.io/Temptextarea/
 
-Collaborative Textarea is an website that runs 24/7, `(no backend 😂)`  
+Pro gramming Textarea is an website that runs 24/7, `(no backend 😂)`  
 this tool can allow you to write essays or code
 mostly going to be used as preview or showcase anyways or left dead
 
